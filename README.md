@@ -12,3 +12,7 @@ Contains:
 PS:
 All examples are structured with keras, tensorflow, sklearn etc. frameworks. 
 *Dataset for the examples are not included. Find them on several platforms such as kaggle.* 
+
+::-------------------IMP---------------------::
+- The directory must be changed to the respective directory containing the train, test datasets.
+- The submisssion is for the Kaggle sets. Feel free to use the code for further improvement and learning. 
